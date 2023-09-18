@@ -1,0 +1,8 @@
+C:\Users\piero\Documents\School\4.d\NiOP\LINQ-sortiranje\LINQ-sortiranje\bin\Debug\LINQ-sortiranje.exe.config
+C:\Users\piero\Documents\School\4.d\NiOP\LINQ-sortiranje\LINQ-sortiranje\bin\Debug\LINQ-sortiranje.exe
+C:\Users\piero\Documents\School\4.d\NiOP\LINQ-sortiranje\LINQ-sortiranje\bin\Debug\LINQ-sortiranje.pdb
+C:\Users\piero\Documents\School\4.d\NiOP\LINQ-sortiranje\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.csproj.AssemblyReference.cache
+C:\Users\piero\Documents\School\4.d\NiOP\LINQ-sortiranje\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Documents\School\4.d\NiOP\LINQ-sortiranje\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.csproj.CoreCompileInputs.cache
+C:\Users\piero\Documents\School\4.d\NiOP\LINQ-sortiranje\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.exe
+C:\Users\piero\Documents\School\4.d\NiOP\LINQ-sortiranje\LINQ-sortiranje\obj\Debug\LINQ-sortiranje.pdb
